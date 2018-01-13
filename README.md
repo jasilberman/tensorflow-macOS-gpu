@@ -7,7 +7,7 @@
 # Tensorflow
 
 ```
-Note: As of version 1.2, TensorFlow no longer provides GPU support on macOS.
+Note From Tensorflow Official Site: As of version 1.2, TensorFlow no longer provides GPU support on macOS.
 ```
 
 This repo try to build tensorflow-gpu on macOS 
@@ -15,6 +15,11 @@ This repo try to build tensorflow-gpu on macOS
 Thanks for https://gist.github.com/smitshilu/53cf9ff0fd6cdb64cca69a7e2827ed0f
 
 ### Download
+
+You can find whl files in release dir. 
+
+[py2](https://github.com/xlvecle/tensorflow-macOS-gpu/raw/master/release/tensorflow-1.5.0rc0-cp27-cp27m-macosx_10_13_intel.whl)
+[py3](https://github.com/xlvecle/tensorflow-macOS-gpu/raw/master/release/tensorflow-1.5.0rc0-cp36-cp36m-macosx_10_13_x86_64.whl)
 
 ### System information
 * OS - High Sierra 10.13
